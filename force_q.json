@@ -1,0 +1,48 @@
+{
+  "Do you prefer to: ": {
+    "answers": {
+      "Think": 0,
+      "Fight": 110
+    },
+    "message_on_input": "Choose carefully: "
+  },
+  "What color do you prefer: ": {
+    "answers": {
+      "red": 10,
+      "blue": 20,
+      "green": 30,
+      "orange": 40,
+      "black": 50
+    },
+    "message_on_input": "This one is tricky: "
+  },
+  "Which element fits you best?: ": {
+    "answers": {
+      "water": 1,
+      "fire": 2,
+      "earth": 3,
+      "wind": 4
+    },
+    "message_on_input": "What will you pick: "
+  },
+  "Which word from the following best describes you?: ": {
+  "answers": {
+    "impulsive": 1,
+    "ambitious": 2,
+    "humble": 3,
+    "insightful": 4,
+    "wise": 5
+  },
+  "message_on_input": "Honest with yourself you must to be hmmm: "
+},
+"Which superpower seems the best to you: ": {
+"answers": {
+"super strength": 1,
+"advanced intelligence": 2,
+"using the elements": 3,
+"telepathy": 4,
+"immortality": 50
+},
+"message_on_input": "Unlimited power: "
+}
+}
